@@ -1,0 +1,78 @@
+Body {
+  background-image: url("images/1.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-color: antiquewhite;
+  border: 3px solid black;
+}
+#main-title {
+  text-align: center;
+}
+#title-bold {
+  text-align: center;
+}
+
+#border {
+  position: absolute;
+  left: 43%;
+  text-align: center;
+  width: 300px;
+  height: 100px;
+  border: 1px solid black;
+  border-style: dotted;
+}
+
+#button-style {
+  position: absolute;
+  bottom: 65%;
+  left: 47%;
+}
+
+#title-bold1 {
+  position: absolute;
+  bottom: 55%;
+  left: 45%;
+}
+#border1 {
+  position: absolute;
+  bottom: 45%;
+  left: 43%;
+  text-align: center;
+  width: 300px;
+  height: 100px;
+  border: 1px solid black;
+  border-style: dotted;
+}
+#button-style1 {
+  position: absolute;
+  bottom: 40%;
+  left: 47%;
+}
+
+#title-bold2 {
+  position: absolute;
+  bottom: 30%;
+  left: 44%;
+}
+
+#border2 {
+  position: absolute;
+  bottom: 20%;
+  left: 43%;
+  text-align: center;
+  width: 300px;
+  height: 100px;
+  border: 1px solid black;
+  border-style: dotted;
+}
+#button-style2 {
+  position: absolute;
+  bottom: 15%;
+  left: 47%;
+}
+#footer {
+  text-align: center;
+  position: absolute;
+  bottom: 2%;
+  left: 37%;
+}
